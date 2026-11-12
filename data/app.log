@@ -1,0 +1,100 @@
+2026-10-25 12:01:22,351 [INFO] mao: 启动毛记录
+2026-10-25 12:13:48,639 [INFO] mao: 设置已保存
+2026-10-25 12:14:23,757 [WARNING] mao: AI 分析失败：触发限流，稍后重试中
+2026-10-25 12:14:32,807 [WARNING] mao: AI 分析失败：触发限流，稍后重试中
+2026-10-25 12:14:42,281 [WARNING] mao: AI 分析失败：触发限流，稍后重试中
+2026-10-27 17:51:37,178 [INFO] mao: 启动毛记录
+2026-10-28 14:30:54,801 [INFO] mao: 启动毛记录
+2026-10-29 10:51:19,631 [INFO] mao: 启动毛记录
+2026-10-29 13:21:19,348 [INFO] mao: 启动毛记录
+2026-10-29 21:02:53,900 [INFO] mao: 启动毛记录
+2026-10-29 21:29:40,425 [INFO] mao: 退出毛记录，返回码 0
+2026-10-30 09:10:04,261 [INFO] mao: 启动毛记录
+2026-11-01 20:34:10,089 [INFO] mao: 启动 MaoLog
+2026-11-01 20:35:07,162 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-02 17:21:56,069 [INFO] mao: 启动 MaoLog
+2026-11-02 17:22:11,373 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:22:24,543 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:22:39,824 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:22:54,849 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:23:09,895 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:23:24,877 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:23:39,875 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:23:54,844 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:24:09,907 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:24:24,877 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:24:39,884 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 17:24:54,906 [WARNING] mao: AI 分析失败：网络连接失败，检查网络或代理设置
+2026-11-02 19:20:09,691 [INFO] mao: 启动 MaoLog
+2026-11-02 21:04:49,216 [INFO] mao: 启动 MaoLog
+2026-11-02 21:04:49,384 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-02 21:05:30,800 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-02 22:30:17,020 [WARNING] mao: 检测到已有实例在运行
+2026-11-02 22:30:24,225 [INFO] mao: 启动 MaoLog
+2026-11-02 22:30:24,353 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-02 22:30:51,329 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-04 08:13:41,138 [INFO] mao: 启动 MaoLog
+2026-11-04 08:13:41,372 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-06 20:18:49,865 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 22:19:25,475 [INFO] mao: 启动 MaoLog
+2026-11-07 22:19:25,678 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 22:20:02,743 [INFO] mao: 设置已保存
+2026-11-07 22:20:09,975 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-07 22:20:17,610 [INFO] mao: 启动 MaoLog
+2026-11-07 22:20:17,666 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 22:42:54,620 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-07 22:42:58,843 [INFO] mao: 启动 MaoLog
+2026-11-07 22:42:59,002 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 22:51:11,383 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-07 22:51:17,342 [INFO] mao: 启动 MaoLog
+2026-11-07 22:51:17,413 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 23:14:51,198 [WARNING] mao: AI 分析失败：模型返回的不是有效 JSON：!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2026-11-07 23:17:34,823 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-07 23:17:36,718 [INFO] mao: 启动 MaoLog
+2026-11-07 23:17:36,853 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-07 23:20:01,702 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-07 23:59:34,241 [INFO] mao: 启动 MaoLog
+2026-11-07 23:59:34,519 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-08 00:06:52,941 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-08 00:06:55,484 [INFO] mao: 启动 MaoLog
+2026-11-08 00:06:55,596 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-08 00:17:49,438 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-08 00:20:30,521 [INFO] mao: 启动 MaoLog
+2026-11-08 00:20:30,663 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-08 00:20:55,061 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-08 00:28:22,534 [INFO] mao: 启动 MaoLog
+2026-11-08 00:28:22,719 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-08 00:32:09,745 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-08 00:32:12,565 [INFO] mao: 启动 MaoLog
+2026-11-08 00:32:12,674 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-08 00:32:57,467 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-08 18:44:45,370 [INFO] mao: 启动 MaoLog
+2026-11-08 18:44:45,555 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 10:00:06,272 [INFO] mao: 启动 MaoLog
+2026-11-12 10:00:06,404 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 10:05:02,205 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-12 10:05:07,122 [INFO] mao: 启动 MaoLog
+2026-11-12 10:05:07,243 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 10:09:21,431 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-12 10:13:55,920 [INFO] mao: 启动 MaoLog
+2026-11-12 10:13:56,058 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 10:15:40,468 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-12 10:42:58,043 [INFO] mao: 启动 MaoLog
+2026-11-12 10:42:58,265 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 10:44:44,050 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-12 11:10:13,916 [INFO] mao: 启动 MaoLog
+2026-11-12 11:10:13,973 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-12 11:12:59,320 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-12 20:00:45,697 [INFO] mao: 启动 MaoLog
+2026-11-12 20:00:45,921 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-14 20:25:19,558 [INFO] mao: 启动 MaoLog
+2026-11-14 20:25:19,696 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-14 20:37:12,796 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-14 21:09:02,395 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-15 22:19:12,557 [INFO] mao: 启动 MaoLog
+2026-11-15 22:19:12,749 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-15 22:19:13,992 [WARNING] mao: 检测到已有实例在运行
+2026-11-15 22:19:40,522 [INFO] mao: 退出 MaoLog，返回码 0
+2026-11-15 22:19:47,435 [INFO] mao: 启动 MaoLog
+2026-11-15 22:19:47,495 [INFO] mao: 已加载内置字体: LXGW WenKai, 霞鹜文楷, LXGW WenKai Medium, 霞鹜文楷 Medium
+2026-11-15 22:21:41,353 [INFO] mao: 退出 MaoLog，返回码 0

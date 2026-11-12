@@ -1,0 +1,189 @@
+{
+  "title": "数据护照（演示数据）",
+  "demo": true,
+  "schema_version": 2,
+  "generated_at": "2026-11-16 12:57:13",
+  "local_storage": {
+    "location": "本机指定 SQLite 数据库",
+    "snapshot_records": 375,
+    "daily_summaries": 0,
+    "ai_judgments": 1,
+    "time_estimates": 1,
+    "outbound_policy_rows": 3,
+    "outbound_records": 17,
+    "note": "快照记录可能包含应用名、窗口标题、截图路径；完整明细仅在本机。",
+    "image_keep_days": 0,
+    "image_keep_days_source": "调用方传入；本原型未读取主程序配置",
+    "image_retention_text": "永久保留，直到本人清理"
+  },
+  "outbound": {
+    "recorded_total": 17,
+    "events_in_passport": 17,
+    "by_purpose": {
+      "日终总结": 2,
+      "画面识别": 14,
+      "连接测试": 1
+    },
+    "provider_models": [
+      "qwen / qwen-vl-max-latest"
+    ],
+    "recent_events": [
+      {
+        "ts": "2026-11-16 10:36:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 10:29:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 10:22:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 10:15:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 10:08:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 10:01:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:54:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:47:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:40:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:33:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:26:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:19:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:12:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 2400,
+        "has_thumb": false,
+        "purpose": "日终总结"
+      },
+      {
+        "ts": "2026-11-16 09:12:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      },
+      {
+        "ts": "2026-11-16 09:05:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 900,
+        "has_thumb": false,
+        "purpose": "连接测试"
+      },
+      {
+        "ts": "2026-11-16 09:05:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 2400,
+        "has_thumb": false,
+        "purpose": "日终总结"
+      },
+      {
+        "ts": "2026-11-16 09:05:00",
+        "provider": "qwen",
+        "model": "qwen-vl-max-latest",
+        "bytes": 186000,
+        "has_thumb": true,
+        "purpose": "画面识别"
+      }
+    ],
+    "content_not_logged": [
+      "提示词全文",
+      "图片内容",
+      "窗口标题全文",
+      "模型原始返回"
+    ],
+    "ledger_wired": false,
+    "policy_enforcement": "off",
+    "ledger_note": "演示数据：只代表已登记的演示外发。"
+  },
+  "outbound_policy": {
+    "日终总结": false,
+    "画面识别": false,
+    "连接测试": false
+  },
+  "revocation": {
+    "future": "可按用途停止后续请求",
+    "local": "主程序可按日期删除快照与总结；v2 元数据清理接口尚未接入",
+    "already_sent": "不可由本程序收回"
+  },
+  "scope_note": "本台账只覆盖本程序登记的外发，不覆盖用户手动上传到网盘、微信或其他软件的行为；已经外发的数据不能由本程序收回。"
+}

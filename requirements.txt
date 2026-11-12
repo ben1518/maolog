@@ -1,0 +1,6 @@
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.0
+mss>=10.0.0
+psutil>=5.9.0
+Pillow>=10.0.0
+requests>=2.31.0

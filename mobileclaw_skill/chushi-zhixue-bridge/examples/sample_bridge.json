@@ -1,0 +1,95 @@
+{
+  "schema": "chushi-zhixue.mobileclaw-bridge.v1",
+  "generated_at": "2026-11-16 12:58:05",
+  "privacy_guarantee": {
+    "raw_screenshots_included": false,
+    "window_titles_included": false,
+    "raw_prompts_included": false
+  },
+  "day": "2026-11-16",
+  "task_name": "课程论文写作与原型开发",
+  "overview": {
+    "records": 375,
+    "tracked_minutes": 375.0,
+    "avg_focus": 4.57,
+    "top_activity": "文档写作",
+    "first_ts": "09:00",
+    "last_ts": "17:39"
+  },
+  "categories": [
+    {
+      "category": "工作",
+      "minutes": 295.0,
+      "ratio_pct": 78.7
+    },
+    {
+      "category": "学习",
+      "minutes": 80.0,
+      "ratio_pct": 21.3
+    }
+  ],
+  "learning_review": {
+    "headline": "有记录的 375 分钟里，动手时间 295 分钟",
+    "summary": "从 09:00 到 17:39，占比最多的是写作。中间有 3 段没有记录的时间，已分开计算。最长的一段连续了 220 分钟。没有明显的卡点。",
+    "metrics": {
+      "active_minutes": 375,
+      "learn_minutes": 375,
+      "prepare_minutes": 40,
+      "produce_minutes": 295,
+      "ai_minutes": 40,
+      "produce_ratio": 0.787,
+      "focus_minutes": 220,
+      "focus_start": "14:00",
+      "focus_end": "17:39",
+      "startup_minutes": 0,
+      "first_produce_at": "09:00",
+      "interruptions": 0,
+      "away_minutes": 0,
+      "away_long": 0,
+      "revisits": 3,
+      "revisit_rate": 0.48,
+      "stage_switches": 9,
+      "dominant_stage": "写作",
+      "stage_minutes": {
+        "写作": 165,
+        "查阅": 40,
+        "AI 对话": 40,
+        "编程": 130
+      }
+    },
+    "strengths": [
+      {
+        "kind": "focus",
+        "title": "最长的一段连续了 220 分钟",
+        "detail": "从 14:00 到 17:39，中间没有切换到非学习活动。这段时间的注意力是连着的。"
+      },
+      {
+        "kind": "produce",
+        "title": "动手时间占 79%",
+        "detail": "大部分记录落在写作或编程上，说明是真的在产出，不只是准备。"
+      }
+    ],
+    "frictions": [],
+    "suggestions": [
+      {
+        "title": "把这个时段固定下来",
+        "detail": "这次的节奏是稳的。同样的时间段再用几次，比较容易形成习惯。"
+      }
+    ],
+    "stage_switches": 9,
+    "document_revisits": 3,
+    "data_gaps_count": 3
+  },
+  "ai_collaboration": {
+    "mode": "边做边问",
+    "ai_samples": 40,
+    "ai_sample_ratio": 0.1067,
+    "switch_count": 4
+  },
+  "time_estimate": {
+    "day": "2026-11-16",
+    "planned_minutes": 420,
+    "actual_minutes": 375
+  },
+  "mobileclaw_prompt_context": "日期：2026-11-16｜任务：课程论文写作与原型开发\n有效记录：375 条（约 6小时15分），平均专注 4.57/5\n分类分布：工作 78.7%、学习 21.3%\n过程复盘：有记录的 375 分钟里，动手时间 295 分钟 — 从 09:00 到 17:39，占比最多的是写作。中间有 3 段没有记录的时间，已分开计算。最长的一段连续了 220 分钟。没有明显的卡点。\nAI 协作模式：边做边问\n估时对照：计划 420 分钟 vs 实际产出 375 分钟"
+}

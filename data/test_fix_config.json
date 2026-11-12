@@ -1,0 +1,47 @@
+{
+  "capture": {
+    "interval_seconds": 60,
+    "output_dir": "C:\\Users\\19351\\Desktop\\mao\\data\\screenshots",
+    "keep_days": 0,
+    "change_detection": true,
+    "change_threshold": 0.035,
+    "force_reanalyze_minutes": 20,
+    "max_width": 2560,
+    "jpeg_quality": 92,
+    "monitor": 1,
+    "exclude_apps": [
+      "KeePass.exe",
+      "1Password.exe",
+      "Bitwarden.exe"
+    ]
+  },
+  "ai": {
+    "provider": "qwen",
+    "api_key": "",
+    "model": "qwen-vl-max-latest",
+    "base_url": "",
+    "timeout": 90,
+    "local_fallback": true
+  },
+  "privacy": {
+    "paused": false,
+    "paused_mode": "no_ai",
+    "sensitive_keywords": [
+      "密码",
+      "登录密码",
+      "身份证",
+      "银行卡",
+      "支付密码"
+    ]
+  },
+  "ui": {
+    "start_minimized": false,
+    "close_to_tray": true,
+    "skin": "dark"
+  },
+  "v2": {
+    "outbound_ledger": false,
+    "enforce_outbound": false,
+    "db_path": ""
+  }
+}
