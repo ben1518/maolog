@@ -19,6 +19,8 @@
 
 ## 它解决什么问题
 
+![校园里的三个真问题与解法](assets/figures/fig1_positioning.png)
+
 大多数人对"今天时间花哪了"的判断是失真的。凭感觉回忆，写代码的四小时和刷手机的一小时会被记成"我今天挺忙的"。
 
 MaoLog 不靠自觉打卡，也不靠手动记录——它在后台默默截屏，让视觉大模型自己看你在干什么：
@@ -32,6 +34,8 @@ MaoLog 不靠自觉打卡，也不靠手动记录——它在后台默默截屏�
 ---
 
 ## 三个核心设计
+
+![一次完整的数据流](assets/figures/fig4_dataflow.png)
 
 **1. 截图 + 窗口信息双通道识别**
 
@@ -51,6 +55,8 @@ MaoLog 不靠自觉打卡，也不靠手动记录——它在后台默默截屏�
 ---
 
 ## 快速开始
+
+![AI 接入与本地免 Key 模式设置](data/v2_preview/preview_tab_0.png)
 
 ### 1. 装依赖
 
@@ -95,6 +101,8 @@ uv venv --python 3.13 .venv
 
 ## 看板怎么读
 
+![学习复盘与估时校准](data/v2_preview/v2_预览_估时.png)
+
 | 区域 | 含义 |
 |---|---|
 | 顶部四张卡 | 有效记录时长、平均专注度、主要活动、涉及应用数 |
@@ -109,6 +117,8 @@ uv venv --python 3.13 .venv
 ---
 
 ## 界面外观：两套手绘皮肤
+
+![外观与皮肤设置](data/v2_preview/preview_tab_3.png)
 
 设置 → **外观** 里切换：
 
@@ -142,6 +152,8 @@ MAO_DOODLE=2 main.py    # 深色（默认）
 ---
 
 ## 界面与图标
+
+![楚师蘑菇小精灵桌面悬浮宠与动效图鉴](data/v2_exports/楚师蘑菇小精灵_悬浮桌宠动效图鉴.png)
 
 视觉方向是「克制的时间工作台」：墨青黑打底、低对比发丝边框，青玉色只留给主行动和关键状态；工作、学习、娱乐等颜色仅在图表里承担分类语义。顶栏拆成品牌区、日期导航和操作区，**「学习复盘」是唯一主按钮**，其余功能退到次级层级。
 
@@ -187,6 +199,8 @@ $env:MAO_PREVIEW_WIDTH=1080; $env:MAO_PREVIEW_HEIGHT=720
 
 ## 配置项说明
 
+![采集与隐私设置](data/v2_preview/preview_tab_1.png)
+
 设置面板分三页：
 
 **AI 接入**
@@ -208,6 +222,8 @@ $env:MAO_PREVIEW_WIDTH=1080; $env:MAO_PREVIEW_HEIGHT=720
 ---
 
 ## 工作原理
+
+![总体架构：四层，自下而上](assets/figures/fig2_architecture.png)
 
 ```
 ┌──────────────┐   每 60 秒    ┌──────────────┐
@@ -233,6 +249,8 @@ $env:MAO_PREVIEW_WIDTH=1080; $env:MAO_PREVIEW_HEIGHT=720
 ---
 
 ## 目录结构
+
+![MobileClaw Skills 编排协作](assets/figures/fig3_skills.png)
 
 ```
 mao/
@@ -263,6 +281,8 @@ mao/
 
 ## 常见问题
 
+![AI 协作画像与判断依据](data/v2_preview/v2_预览_AI协作.png)
+
 **Q：一启动就提示「已经在运行」？**
 程序有单实例保护，防止两个进程重复截图。看右下角托盘，它可能已经缩在那儿了。
 
@@ -281,6 +301,8 @@ mao/
 ---
 
 ## 开发辅助脚本
+
+![隔离演示看板预览](data/v2_preview/v2_预览_隔离演示.png)
 
 | 脚本 | 作用 |
 |---|---|
@@ -303,6 +325,8 @@ mao/
 ---
 
 ## 学习复盘（v2）
+
+![v2 学习复盘四大模块总览](assets/figures/fig7_v2_modules.png)
 
 一期回答"时间花在哪了"，这一层回答"这段时间是怎么学的"。
 
@@ -346,6 +370,8 @@ mao/
 
 ## 打包成 exe
 
+![开发推进计划](assets/figures/fig6_roadmap.png)
+
 ```bash
 .venv\Scripts\python.exe -m pip install pyinstaller
 .venv\Scripts\python.exe tools\build_exe.py
@@ -378,6 +404,8 @@ mao/
 ---
 
 ## 隐私声明
+
+![数据护照与外发台账](data/v2_preview/v2_预览_数据护照.png)
 
 本工具会定时截取你的屏幕并保存在本机，仅当前用户可访问。
 只有压缩后的缩略图（1024 宽 JPEG）会发送给你配置的 AI 服务商用于识别内容。
